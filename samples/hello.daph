@@ -1,0 +1,9 @@
+<?daphne
+
+class greet() {
+  func hello() {
+    print('Hello, world!')
+  }
+}
+
+$init = new greet.Hello()
