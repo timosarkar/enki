@@ -5,9 +5,10 @@ CONST PHP php8
 SRC is core/*.php
 
 % Set outputfiles after build
-O is daphne.exe
+O is daphne
 
 % Main build-process label
 . all
 @ PHP -o O SRC 
+@ sudo chmod +x ./O
 $ End.
