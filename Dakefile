@@ -5,7 +5,7 @@ CONST PHP php8
 SRC is core/*.php
 
 % Set outputfiles after build
-O is out.exe
+O is daphne.exe
 
 % Main build-process label
 . all
