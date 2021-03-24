@@ -1,1 +1,1 @@
-(print "Hello, world!")
+writeln("Hello, from Daphne!").
