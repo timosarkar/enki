@@ -1,14 +1,1 @@
-% Dakefile builds for the Daphne programming language
-CONST PHP php8
 
-% Set source files for builing
-SRC is core/*.php
-
-% Set outputfiles after build
-O is daphne
-
-% Main build-process label
-. all
-@ PHP -o O SRC 
-@ sudo chmod +x ./O
-$ End.
