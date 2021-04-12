@@ -1,9 +1,0 @@
-% Example of modularity in Daphne
--module(modularity).
--export([main_modularity/1]).
-
-main_modularity :-
-  -consult("data.daph")
-main_modularity.
-
-:- main_modularity.
