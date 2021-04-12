@@ -1,6 +1,0 @@
-# single line comments in Daphne
-
-# define an anonymous function in Daphne
-ponyfoo = do |a b|
-  sys puts "Rainbows"
-end
