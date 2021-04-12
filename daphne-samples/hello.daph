@@ -1,5 +1,5 @@
-class main inherits io {
-    main() : object {
-        self.out_string("Hello, from Daphne!")
-    };
+class Main {
+  main():Object {
+    (new IO).out_string("hello, world!\n")
+  };
 };
