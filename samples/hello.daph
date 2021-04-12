@@ -1,1 +1,5 @@
-writeln("Hello, from Daphne!").
+class Main inherits IO {
+    main() : Object {
+        self.out_string("Hello, from Daphne!")
+    };
+};
