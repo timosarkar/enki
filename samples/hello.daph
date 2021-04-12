@@ -1,5 +1,5 @@
-class Main inherits IO {
-    main() : Object {
+class main inherits io {
+    main() : object {
         self.out_string("Hello, from Daphne!")
     };
 };
