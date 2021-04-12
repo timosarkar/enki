@@ -1,0 +1,6 @@
+(* Sample Daphne program that complies with maven *)
+classed-namespace foo {
+  class foo inherits io {
+    (io.new).out_string("Hello, foo!") 
+  };
+};
