@@ -1,0 +1,7 @@
+namespace objects;
+
+Object subclass: objects (
+  def outputstring: void (
+    Transcript show: 'Hy!';
+  )
+)
