@@ -8,3 +8,10 @@ An innovative programming-language with a functional touch, running on jvm
 
 The Daphne programming-language is a functional, quasi-dynamic programming language based heavily on other languages such as **Smalltalk,
 Newspeak, Io, R, Erlang and Java**. Daphne serves an intuitive syntax, as absolute control of functionality. It features an open type-system, the ability to compile to bytecode and many many more...
+
+
+### Copyright:
+
+(C) 2020 - 2021 Timo Sarkar <sartimo10@gmail.com>
+
+Fancy is licensed under the terms of the Creative Commons license. For more information on licensing issues have a look at the LICENSE file.
