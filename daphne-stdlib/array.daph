@@ -1,0 +1,3 @@
+ArrayedCollection subclass: Array (
+  "Daphne code in here for array"
+)
