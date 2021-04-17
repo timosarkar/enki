@@ -52,4 +52,4 @@ For Windows you simply need to get the binaries or you can run the commands from
 
 (C) 2020 - 2021 Timo Sarkar <sartimo10@gmail.com>
 
-Fancy is licensed under the terms of the Creative Commons license. For more information on licensing issues have a look at the LICENSE file.
+Daphne is licensed under the terms of the Creative Commons license. For more information on licensing issues have a look at the LICENSE file.
