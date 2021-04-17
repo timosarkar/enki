@@ -17,7 +17,7 @@ Daphne is a programming-language, worth of trying. It has a lot of features, her
 - Big standard library and additional modules
 - Namespaces through classes (**inherited from Newspeak**)
 - Modules through classes (**inherited from Newspeak**)
-- Powerful and intuitive syntax inspired heavily by Smalltak, Newspeak amd others
+- Powerful and intuitive syntax inspired heavily by Smalltak, Newspeak and others
 - Functional programming
 - Parallel programming within channels and fibers
 - many more...
