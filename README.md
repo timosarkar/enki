@@ -22,6 +22,16 @@ Daphne is a programming-language, worth of trying. It has a lot of features, her
 - Parallel programming within channels and fibers
 - many more...
 
+**Here is a simple Daphne snippet taht prints to stdout**:
+
+```smalltalk
+Helloworld subclass: samples (
+  def mainfunction: void (
+    Transcript show: "Hi!";
+  )
+)
+```
+
 > Note: Most of it is still under early but heavy development, so don't touch it yet.
 
 # Build Daphne from sources
