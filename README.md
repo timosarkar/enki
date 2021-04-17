@@ -27,7 +27,7 @@ Daphne is a programming-language, worth of trying. It has a lot of features, her
 ```smalltalk
 Helloworld subclass: samples (
   def mainfunction: void (
-    Transcript show: "Hi!";
+    Transcript show: 'Hi!';
   )
 )
 ```
