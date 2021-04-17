@@ -22,7 +22,7 @@ Daphne is a programming-language, worth of trying. It has a lot of features, her
 - Parallel programming within channels and fibers
 - many more...
 
-**Here is a simple Daphne snippet taht prints to stdout**:
+**Here is a simple Daphne snippet that prints to stdout**:
 
 ```smalltalk
 Helloworld subclass: samples (
