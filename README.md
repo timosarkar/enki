@@ -25,8 +25,8 @@ Daphne is a programming-language, worth of trying. It has a lot of features, her
 **Here is a simple Daphne snippet that prints to stdout**:
 
 ```smalltalk
-Helloworld subclass: samples (
-  def mainfunction: void (
+HelloWorld subclass: samples (
+  def main.entrypoint: void (
     Transcript show: 'Hi!';
   )
 )
