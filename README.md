@@ -41,6 +41,7 @@ HelloWorld subclass: samples (
 For building Daphne on a Unix like OS, simply fire-up a terminal of your choice and start typing in the commands below.
 
 ```bash
+**not working yet**
 # Install with Apache Maven
 mvn clean install
 
