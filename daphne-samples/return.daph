@@ -1,0 +1,6 @@
+Return subclass: samples (
+  | ReturnValue |
+  initialize: value (
+    ^(ReturnValue).
+  )
+)
