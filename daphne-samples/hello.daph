@@ -1,8 +1,1 @@
-namespace daphne-samples.hello;
-
-require daphne-core.std.*;
-require java.utils.*;
-
-function main(args : String[]) : void {
-  System.putstring("Hello, ${world}!");
-}
+:- write("Hello, world!")
