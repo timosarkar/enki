@@ -1,1 +1,1 @@
-:- write("Hello, world!")
+Transcript show: 'Hello, world!'.
