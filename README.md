@@ -2,7 +2,7 @@
 
 # The Daphne programming-language
 
-An innovative programming-language with a functional touch, running on jvm
+An innovative programming-language with a functional touch, running on jvm **wip**
 
 ## Introduction 
 
