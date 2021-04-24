@@ -1,1 +1,1 @@
-display("Hello, from Daphne")
+display "Hello, from Daphne"
