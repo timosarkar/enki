@@ -1,1 +1,2 @@
-*.daph linguist-language=Smalltalk
+*.daph linguist-language=Perl
+# make it look nice 
