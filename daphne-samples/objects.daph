@@ -1,7 +1,6 @@
-namespace objects;
-
-Object subclass: objects (
-  def outputstring: void (
-    Transcript show: 'Hy!';
-  )
-)
+namespace objects 0.0.1 {
+  class objectSample {
+    <version = '0.0.1'
+    display '<version'
+  }
+}
