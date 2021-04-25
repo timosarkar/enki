@@ -1,1 +1,6 @@
-% The prelude file for daphne-lang
+# The prelude file for daphne-lang
+@namespace prelude 0.1.2
+@component stdlib.prelude
+    
+@end
+@end
