@@ -6,7 +6,7 @@ An innovative programming-language with a functional touch, built on Rubinius **
 
 ## Introduction 
 
-The Daphne programming-language is a functional, quasi-dynamic programming language based heavily on other languages such as **Smalltalk, Java Perl and Ruby**. Daphne serves an intuitive syntax, as absolute control of functionality. It features an open type-system, the ability to compile to bytecode and many many more...
+The Daphne programming-language is a functional, quasi-dynamic programming language based heavily on other languages such as **Smalltalk, Java, Perl and Ruby**. Daphne serves an intuitive syntax, as absolute control of functionality. It features an open type-system, the ability to compile to bytecode and many many more...
  
 ### Copyright:
 
