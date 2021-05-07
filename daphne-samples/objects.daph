@@ -1,6 +1,1 @@
-package Objects 0.0.1 {
-  class objectSample {
-    <version = '0.0.1'
-    display '<version'
-  }
-}
+
