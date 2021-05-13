@@ -1,2 +1,7 @@
-require standartlib
-require rubinius
+require: standartlib
+
+Ponyfoo > StandartObject {
+  class rainbowPony: | args | {
+    display "Hello, #{args}!"
+  }
+}
