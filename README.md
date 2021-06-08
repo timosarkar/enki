@@ -31,6 +31,12 @@ Ponyfoo > StandardObject {
 
 > Note: All those features were pretty likely to implement, while the core runtime is still under development. Some features listed above, are still missing.
 
+## Sponsors and supporters
+
+The Daphne language is backed and sponsored with open source licenses from JetBrains ❤️
+
+<img src="https://resources.jetbrains.com/storage/products/jetbrains/img/meta/preview.png" align="center"></img>
+
 ### Copyright:
 
 (C) 2020 - 2021 Timo Sarkar <sartimo10@gmail.com> All rights reserved
