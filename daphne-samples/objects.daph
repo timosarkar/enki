@@ -1,4 +1,4 @@
-require: standartlib
+import: "standardlib"
 
 class sampleobject : object
   display "Hello, world!"
