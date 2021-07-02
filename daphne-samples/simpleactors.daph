@@ -1,0 +1,10 @@
+import: "standardlib"
+import: "actors"
+
+""""
+A simple actor that implements and inherits 
+a pre-built actor class. So no need for extra
+params, lazy overhead and other stuff.
+""""
+actor main : actor
+  display "Hello, #{main.this}!"
