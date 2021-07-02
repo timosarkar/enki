@@ -17,18 +17,6 @@ While Daphne is still under heavy construction, the core of daphne features some
 - modules done via namespaces and pure classes
 - bootstrapping compiler, written 100% in Daphne
 
-Here is a sample snippet of Daphne, so you can get a first impression of it.
-
-```ruby
-require: standardlib
-
-Ponyfoo > StandardObject {
-  class rainbowPony: | args | {
-    display "Hello, #{args}!"
-  }
-}
-```
-
 > Note: All those features were pretty likely to implement, while the core runtime is still under development. Some features listed above, are still missing.
 
 ## Sponsors and supporters
