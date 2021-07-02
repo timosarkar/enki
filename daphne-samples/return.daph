@@ -1,4 +1,0 @@
-# simple script showing a return 
-version = '0.0.1'
-return "#{version}"
-
