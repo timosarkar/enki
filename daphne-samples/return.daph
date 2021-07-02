@@ -1,4 +1,4 @@
 # simple script showing a return 
-$version = '0.0.1'
-return '$version'
+version = '0.0.1'
+return "#{version}"
 
