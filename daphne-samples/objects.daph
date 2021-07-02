@@ -1,4 +1,4 @@
 require: standartlib
 
 class sampleobject : object
-    display "Hello, world!"
+  display "Hello, world!"
