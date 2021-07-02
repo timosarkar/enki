@@ -1,7 +1,4 @@
 require: standartlib
 
-Ponyfoo > StandartObject {
-  class rainbowPony: | args | {
-    display "Hello, #{args}!"
-  }
-}
+class sampleobject : object
+    display "Hello, world!"
