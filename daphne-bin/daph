@@ -1,6 +1,1 @@
-#!/usr/bin/env ruby
-
-begin
-  require 'rubygems'
-  rescue
-end
+#!/usr/bin/env rbx
