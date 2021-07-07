@@ -1,7 +1,0 @@
-require: standardlib
-
-actor mailer(receiver: main, pass: u32)
-  def ping: @receiver, @pass
-
-actor main(mailer)
-  def pong: mailer.ping()
