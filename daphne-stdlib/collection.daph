@@ -1,2 +1,0 @@
-require "./array.daph"
-require "./prelude/prelude.daph"
