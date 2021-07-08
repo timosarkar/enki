@@ -6,7 +6,12 @@ module Daphne
     attr_accessor :length
     attr_accessor :filename
     
-    def initialize(@pos = 0, @row = 0, @column = 0, @length = 0, @filename = "virtual")
+    def initialize(pos, row, column, length, filename)
+      @pos = 0
+      @row = 0
+      @column = 0
+      @length = 0
+      @filename = "virtual"
     end
   end
 end
