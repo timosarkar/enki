@@ -1,0 +1,9 @@
+class rainbowfoo {
+  property accessor1
+  property accessor2
+
+  def initialize: |self| {
+    @accessor1 = @accessor2
+    @accessor2 = "Hello"
+  }
+}
