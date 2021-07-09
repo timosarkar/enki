@@ -1,0 +1,11 @@
+class Version {
+  parameter version
+  parameter author
+  parameter license
+
+  def initialize: |self, @version, @author, @license| {
+    @version = "0.1.2"
+    @author = "Timo Sarkar"
+    @license << DAPHLICENSE
+  }
+}
