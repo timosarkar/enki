@@ -2,6 +2,8 @@
 
 # The Daphne programming-language
 
+[![Join the chat at https://gitter.im/daphne-lang/community](https://badges.gitter.im/daphne-lang/community.svg)](https://gitter.im/daphne-lang/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Join the chat at https://gitter.im/daphne-lang/release](https://badges.gitter.im/daphne-lang/release.svg)](https://gitter.im/daphne-lang/release?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An innovative programming-language with a functional touch, built on Rubinius **wip**
 
 ## Introduction 
@@ -18,6 +20,12 @@ While Daphne is still under heavy construction, the core of daphne features some
 - bootstrapping compiler, written 100% in Daphne
 
 > Note: All those features were pretty likely to implement, while the core runtime is still under development. Some features listed above, are still missing.
+
+## Find daphne on the internet
+
+- **changelog**: <a href="https://github.com/timo-cmd2/daphne/master/changelog">changelog</a>
+- **gitter chat**: https://gitter.im/daphne-lang/community
+- **irc channel**: #daphne @freenode
 
 ## Sponsors and supporters
 
