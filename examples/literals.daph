@@ -7,4 +7,21 @@
 
 # strings and chars
 "hello world"
+"Interpolated #{string}"
 'Char'
+
+# boolean & values
+true
+false
+nil
+NaN
+
+# symbols
+:mysymbol
+:accessor
+
+# arrays
+def myarray = {1, 2, 3}
+
+# tuples
+def mytuple = [1, "string", true]
