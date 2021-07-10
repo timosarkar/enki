@@ -21,6 +21,12 @@ While Daphne is still under heavy construction, the core of daphne features some
 
 > Note: All those features were pretty likely to implement, while the core runtime is still under development. Some features listed above, are still missing.
 
+## Find daphne on the internet
+
+- **changelog**: <a href="https://github.com/timo-cmd2/daphne/master/changelog">changelog</a>
+- **gitter chat**: https://gitter.im/daphne-lang/community
+- **irc channel**: #daphne @freenode
+
 ## Sponsors and supporters
 
 The Daphne language is backed and sponsored with open source licenses from JetBrains ❤️
