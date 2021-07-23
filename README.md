@@ -18,6 +18,7 @@ While Daphne is still under heavy construction, the core of daphne features some
 - full Ruby compabillity with a low overhead
 - modules done via namespaces and pure classes
 - bootstrapping compiler, written 100% in Daphne
+- access to any existing ruby/rubinius method
 
 > Note: All those features were pretty likely to implement, while the core runtime is still under development. Some features listed above, are still missing.
 
