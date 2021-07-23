@@ -11,7 +11,7 @@ module Daphne
       String,
       Boolean,
       Null,
-      NAN,
+      NaN,
       Keyword,
 
       # Operators
@@ -46,8 +46,8 @@ module Daphne
       Greater,
       LessEqual,
       GreaterEqual,
-      AND,
-      OR,
+      And,
+      Or,
 
       # Structure
       LeftParen, RightParen,
@@ -68,7 +68,7 @@ module Daphne
       Newline,
 
       # Misc
-      EOF,
+      Eof,
       Unknown
     ]
   end 
