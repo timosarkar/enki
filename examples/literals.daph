@@ -21,7 +21,7 @@ NaN
 :accessor
 
 # arrays
-def myarray = {1, 2, 3}
+myarray = {1, 2, 3}
 
 # tuples
-def mytuple = [1, "string", true]
+mytuple = [1, "string", true]
