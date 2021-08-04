@@ -27,6 +27,7 @@ While Daphne is still under heavy construction, the core of daphne features some
 - **changelog**: <a href="https://github.com/timo-cmd2/daphne/master/changelog">changelog</a>
 - **gitter chat**: https://gitter.im/daphne-lang/community
 - **irc channel**: #daphne @freenode
+- **Blog**: https://timosarkar.surge.sh/tags/daphne/
 
 ## Sponsors and supporters
 
