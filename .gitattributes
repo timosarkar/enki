@@ -1,2 +1,2 @@
-*.daph linguist-language=Ruby
-# make it look nice 
+*.elinguist-language=Zig
+# map it as zig and not as E
