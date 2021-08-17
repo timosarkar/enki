@@ -1,4 +1,1763 @@
-v0.1.2 (10.7.2021)
---------------------
-  - added gitter residence
-  - added bootstrapping branch
+commit cc672f2a0717d72da4360f34c915204b77930979 (HEAD -> 0.1.4stable, origin/HEAD, origin/0.1.4stable)
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Tue Aug 17 17:16:41 2021 +0200
+
+    Delete daph
+
+commit 6a24fbeb42a4650c9a10a9507a791e06d4a66571
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Tue Aug 17 16:32:51 2021 +0200
+
+    added colletions file for builtin functions
+
+commit 8997e1794e38fa48fb73edce03c4366c7d77a110
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Tue Aug 17 16:32:20 2021 +0200
+
+    Delete version.zig
+
+commit 1446dd272087d92b6e1532ecd0cd7d9a0eea12a1
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Tue Aug 17 16:03:00 2021 +0200
+
+    refactor string indendtion tool
+
+commit 26fcbe62326c63f9d7edbadf108fd4fc8461d8bb
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Tue Aug 17 16:01:15 2021 +0200
+
+    added enki specs
+
+commit 5403f96ede824df3f74a4aec43bff2b83706313a
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Tue Aug 17 16:00:50 2021 +0200
+
+    added main entrypoint for zig builds
+
+commit 749dd38314b5fc1524396cab059c5bb606f79bdd
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Tue Aug 17 16:00:15 2021 +0200
+
+    Create version.zig
+
+commit ab87ddf0a83989650020d7324ad52ffd106cb579
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Tue Aug 17 15:59:36 2021 +0200
+
+    remove old ruby files
+
+commit 60dc371ab6067b3d4b0d03b811542c1141614d32
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Tue Aug 17 15:59:19 2021 +0200
+
+    Update .gitattributes
+
+commit 5aced671f55dfdb16ad5581ae6f76142fe05b2d6
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Tue Aug 17 15:59:13 2021 +0200
+
+    Update .gitattributes
+
+commit 9a4c1c61ef229c761dea097b22952d821db2ee03
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Tue Aug 17 15:58:38 2021 +0200
+
+    remove old ruby files
+
+commit 694ffd1aaa960654bc02955045a2c04537249e84
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Tue Aug 17 15:58:08 2021 +0200
+
+    remove old ruby files
+
+commit bc376c08b5a07c920bf1725514ba0aa08e15f394
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Tue Aug 17 15:57:58 2021 +0200
+
+    remove old ruby files
+
+commit cfc27e7332abe4f7fc6084046a76838aad6ba573
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Tue Aug 17 15:56:41 2021 +0200
+
+    Create build.zig
+
+commit 28e20b2822ced9d8c33cc21b397f052d32f270ee (origin/main)
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Tue Aug 17 15:55:12 2021 +0200
+
+    Create dependencies.md
+
+commit 4091674351f4e7456deebd4e067140e2cf87c75b
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Tue Aug 17 15:19:09 2021 +0200
+
+    Update README.md
+
+commit cb3eb67e9c93cb071b46fe81f02549bc1ca7b230
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Tue Aug 17 14:10:43 2021 +0200
+
+    Delete install.sh
+
+commit f577b5870c1de91432409b8734a10ea5d7dad3f0
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Aug 4 13:03:32 2021 +0200
+
+    Update README.md
+
+commit 3cb38f4d28252acaa7304529ec6ad18fcb253494
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 23 17:47:22 2021 +0200
+
+    Added install script
+
+commit 796100c9ca004572bec4c11351cfaf600191d763
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 23 17:41:17 2021 +0200
+
+    Update README.md
+
+commit 186b6f1426ccad6497299d1a1796a4c6d39a495f
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 23 17:30:56 2021 +0200
+
+    Removed ```def``` keyword due to dynamic-typing
+
+commit 032c36ee87a9599d3728f4a6d483b4ecf2bbb67e
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 23 17:29:27 2021 +0200
+
+    Update and rename index.txt to README.txt
+
+commit 601a56d2031835b5dd7edfb6ac839f81762a4d7f
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 23 17:28:03 2021 +0200
+
+    Fixed non-ruby values
+
+commit f6970a2a2eadaed221fa9f4028b18d6bd3ec3997
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Jul 12 08:49:24 2021 +0200
+
+    Initiating rubinius interop
+
+commit e28ed2e7de8c80a25776c67f25ffaeb5fc69959c
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sun Jul 11 11:10:53 2021 +0200
+
+    #issue 7: refactor stdlib right into lib/
+
+commit bd0aa3abb125dbbdd2d59e09de2cebd5e4e57479
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sun Jul 11 11:07:53 2021 +0200
+
+    Rename ruby/daphne/scanner.rb to ruby/daphne/ast/scanner.rb
+
+commit 1adedcd25b53354fef19b3316b059a62ba0d84e7
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sun Jul 11 11:07:20 2021 +0200
+
+    Adding scanner
+
+commit 6ec8024226ef451ad3352bc6c56065d60e187216
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sun Jul 11 11:02:02 2021 +0200
+
+    Added requires
+
+commit d24ecf278fd1bf93a1079e5623c8154aa8f70902
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sun Jul 11 11:00:04 2021 +0200
+
+    Adding ast file
+
+commit c86db667cc34a64924a8f675b03afaf1ba38435a
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sun Jul 11 10:55:21 2021 +0200
+
+    Added string indention util for the parser
+
+commit 6ed7e270c88eb5af64d3a1b24954473261636d25
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Jul 10 18:48:59 2021 +0200
+
+    Added related links section
+
+commit 6221691e45ba9ada9fe67a419edabc59d07ab5fe
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Jul 10 18:19:08 2021 +0200
+
+    Update Changelog
+
+commit eef49011e5f6cbdbe929ad91169c74e967c99882
+Merge: dfb8ea9 b152162
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Jul 10 18:07:55 2021 +0200
+
+    Merge pull request #11 from gitter-badger/gitter-badge
+
+    Add a Gitter chat badge to README.md
+
+commit b152162a307f20085b0876a3fef95cf3bc07aba1
+Author: The Gitter Badger <badger@gitter.im>
+Date:   Sat Jul 10 16:06:49 2021 +0000
+
+    Add Gitter badge
+
+commit dfb8ea9aa5e776c00556068a5f88b181ea6a80b2
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Jul 10 10:09:14 2021 +0200
+
+    Update literals.daph
+
+commit ca892e800d4fbb2042e0f00cee8f7fdeece3e26c
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Jul 10 09:57:31 2021 +0200
+
+    Update literals.daph
+
+commit 9e7bb03242c0c77ab3088a38ef41dc41fe2d403a
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Jul 10 09:52:50 2021 +0200
+
+    Update literals.daph
+
+commit 3ba5cb74f58eecba27acffdbf307f1d8c7810100
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Jul 10 09:51:45 2021 +0200
+
+    Rename primitives.daph to literals.daph
+
+commit dca2bbccc095accd8385020132e21c81889e2b00
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Jul 10 09:48:04 2021 +0200
+
+    Create primitives.daph
+
+commit 91f56af5f0c6ac7997af77f31d8a532d0aa2d40d
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Jul 10 09:46:44 2021 +0200
+
+    Remove php dockerignore
+
+commit 8f1d035b25d96a97a7f1a4204d603b7f93c86fdc
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Jul 10 09:46:18 2021 +0200
+
+    Refactor
+
+commit 917b487fee8498cf097b7a262ab21b2ea56bfee1
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Jul 10 09:44:24 2021 +0200
+
+    Initial changelog
+
+commit 37a26c97283c678bfe981076443c91fc89cc013f
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Jul 10 09:26:44 2021 +0200
+
+    Added inspirations and influences
+
+commit b6844499385c2d5f266216abc3db2c4720607b30
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 9 20:00:41 2021 +0200
+
+    Adding dakefile bin
+
+commit 48383ff40d9c2f83c5d70a5f936bc3811492b42b
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 9 20:00:19 2021 +0200
+
+    Create daphdoc
+
+commit a8f60b625d10996cfc4a00577aa7947abf0378ca
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 9 19:59:15 2021 +0200
+
+    Fixed relative require path
+
+commit 40ac29a26c1da627d92acc043b69ad435f803534
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 9 19:58:00 2021 +0200
+
+    Create version.daph
+
+commit 3de665c89977b1b4580864e724e92a80a2b6bb3c
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 9 19:53:00 2021 +0200
+
+    Create daphne.daph
+
+commit c803cf94897b939e56fd13a10536013dde67e60d
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 9 13:04:28 2021 +0200
+
+    Delete FUNDING.yml
+
+commit 3f9e09b3c1624605d58a7f57040c9ca120ffdd66
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu Jul 8 17:57:55 2021 +0200
+
+    Create class.daph
+
+commit d29611975de564125f208f2bdcbd35d43fdf922d
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu Jul 8 15:07:30 2021 +0200
+
+    added file location for error reporting
+
+commit 01202c1f6741275d48ed6f051ec5cfa3945bf8e0
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu Jul 8 14:52:27 2021 +0200
+
+    fixed initiating accessors value
+
+commit dc739ed37440e9f41dd59402212c3d3b74e512ff
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu Jul 8 14:49:59 2021 +0200
+
+    fixed accessors
+
+commit 06467c3143551a40e901582dd8fbe82a880662b4
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu Jul 8 14:11:38 2021 +0200
+
+    added tokentype enum
+
+commit 11092f49a432ac388cf44ebff118f15f5fa3718e
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu Jul 8 13:52:43 2021 +0200
+
+    Update filestructure.rb
+
+commit eaaacb0296a5867442a24784d533feee9ee9679e
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu Jul 8 13:52:36 2021 +0200
+
+    Rename ruby/daphne/filestructure.rb to ruby/daphne/ast/filestructure.rb
+
+commit 6bfc026ab2e7619eccb3c44111f6cdf488bcbdec
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu Jul 8 13:47:27 2021 +0200
+
+    adding cli vars for entrypoint
+
+commit 159f47eb2885b2574cbdf3309645e16e5e9db1eb
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu Jul 8 12:36:56 2021 +0200
+
+    Update FUNDING.yml
+
+commit 18d8c33ef2aab8bd44793e125964f4d438530af6
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu Jul 8 12:29:53 2021 +0200
+
+    Update LICENSE
+
+commit 3530e242b2fedec10acfed468279dcc18b105f4a
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu Jul 8 12:29:03 2021 +0200
+
+    Rename lib/ruby/daphne.rb to ruby/daphne.rb
+
+commit 2d8cdcdb2de31033208886dad116c8c067bb658d
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu Jul 8 12:28:40 2021 +0200
+
+    Rename lib/ruby/daphne/version.rb to ruby/daphne/version.rb
+
+commit 649826d5c6c8a79dea051d6c3f0f212a07c5fd15
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu Jul 8 12:27:55 2021 +0200
+
+    Rename lib/ruby/daphne/filestructure.rb to ruby/daphne/filestructure.rb
+
+commit d43794d84553e9bae7d0595fbf291fd812264a7c
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu Jul 8 12:15:04 2021 +0200
+
+    added funding option
+
+commit ab59e202ecf6c12841f3e21c166e1382eb0022cf
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu Jul 8 12:12:19 2021 +0200
+
+    adding gemfile
+
+commit 41a5a0cf50febe3022f5fc7e5757f0ca07058b46
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu Jul 8 12:11:11 2021 +0200
+
+    Delete .keep
+
+commit 22b5d36ce6e1e9a266bd136bfd8adc6ba33246c1
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu Jul 8 12:10:50 2021 +0200
+
+    adding emacs support
+
+commit cbffe057f4afa38954b2ddb9072d329b855be5ab
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu Jul 8 10:57:16 2021 +0200
+
+    Create AUTHORS
+
+commit 417df704ded174b243ba582b065d7ca705b9ae53
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 15:28:04 2021 +0200
+
+    Update filestructure.rb
+
+commit 970762fc10585ee7573601dd105ebfbc24d772c7
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 15:20:50 2021 +0200
+
+    added cli accessors for io interop
+
+commit ae013099d600d0dadc797aaa4d5c105788b03ff6
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:32:58 2021 +0200
+
+    added versionfile for daphne
+
+commit 05f621bf4251b0103381f02b3c62df8f46c9a87c
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:23:12 2021 +0200
+
+    Rename lib/ruby/parser/parser.rb to lib/ruby/daphne/parser/parser.rb
+
+commit 4d57272860a80c678cdf8868db7872135d64cab0
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:14:35 2021 +0200
+
+    Create index.txt
+
+commit 9c4649ebf035ce89ed0f9dac3e938ea333953c09
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:14:12 2021 +0200
+
+    Create .keep
+
+commit a98cbea520ba446fa98b4c259e2a28ee61196b07
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:13:47 2021 +0200
+
+    Delete hello.daph
+
+commit f92f4fde7e8b616cd5a2657c3d5ec4f2ef555b0c
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:13:42 2021 +0200
+
+    Delete imports.daph
+
+commit 3911d1c917a0df15aed5e793700fff696c0cbe0e
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:13:34 2021 +0200
+
+    Rename daphne-samples/comments.daph to examples/comments.daph
+
+commit b22c0969f6bbc0fe05ccf056dacea23607bea929
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:12:57 2021 +0200
+
+    Delete objects.daph
+
+commit 21808ccfd8d2d3b617120072b3b32aa39ecc1c6a
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:12:52 2021 +0200
+
+    Delete simpleactors.daph
+
+commit 0109b0d3fb6f9d7bc8d3e46b16d0d1db07462e15
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:12:46 2021 +0200
+
+    Delete collection.daph
+
+commit a81dcd8d978302e502f6326d7aa0368c339875c2
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:12:36 2021 +0200
+
+    Rename daphne-stdlib/array.daph to stdlib/array.daph
+
+commit 66d1c97cd31652076ca0f72af203d3348b2ba5b0
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:05:08 2021 +0200
+
+    Delete prelude.daph
+
+commit eb38f334985773c1b7f98f24877fc1e3ee8b98a5
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:04:56 2021 +0200
+
+    Create index.txt
+
+commit 096192faf9e98b9721ad9a21bf834153c976be53
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:04:17 2021 +0200
+
+    Rename daphne-spec/daphne-spec.daph to spec/daphne-spec.daph
+
+commit e9aa7e1a75a40c73d976600ac339c20a34fdac7c
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:03:49 2021 +0200
+
+    Rename daphne-docs/daphdoc.daph to docs/daphdoc.daph
+
+commit d400bc08a42defa69ec86d9f01d2585da3e5d7aa
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:03:37 2021 +0200
+
+    Delete architecture.md
+
+commit cafc636b3b670a547f2221cbd39686e2c72320c7
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:03:22 2021 +0200
+
+    Rename lib/daphne/parser/parser.rb to lib/ruby/parser/parser.rb
+
+commit 549495c55d76a844eb4e21aa098ffe84dff83776
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:02:55 2021 +0200
+
+    Rename lib/daphne.rb to lib/ruby/daphne.rb
+
+commit 87aaf8c5225a4696d7dec5f5644660d5075f80fa
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:02:39 2021 +0200
+
+    Delete dake.daph
+
+commit 517c7842ccc04befa50d614e08b95c29bb7b4d6f
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:02:35 2021 +0200
+
+    Rename daphne-dake/dake.daph to dake.daph
+
+commit 9cdc022e2ac685e5e60dd15c129faad19e661a5d
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:01:13 2021 +0200
+
+    Create daphne.rb
+
+commit f6a503517ebb25f9e1c2fb69ea34cc5a199d85f4
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:00:53 2021 +0200
+
+    Delete version.rb
+
+commit 483d1c1a41ad63ba34c8569694a16886cf36cac5
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:00:48 2021 +0200
+
+    Delete daphne.rb
+
+commit fbb7429bfecbed5bdc99e12654a65dc3c3a79f46
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 14:00:36 2021 +0200
+
+    Update and rename daphne-core/daphne/daphne-parser/parser.rb to lib/daphne/parser/parser.rb
+
+commit 33597ab03e4a040cca33418a464706f87e89d399
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 13:58:16 2021 +0200
+
+    Rename daphne-bin/daph to bin/daph
+
+commit 0fe03e7f2eafbe1620b1cd3fe6ff8ef10b3bef80
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 13:53:02 2021 +0200
+
+    Update simpleactors.daph
+
+commit afd4ce6fcae95f2d1961d832bcab0a8c5bd0fb55
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 13:52:51 2021 +0200
+
+    Update objects.daph
+
+commit e75e181d29952271d9eaa85f4a7fc764b949d370
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Jul 7 13:52:36 2021 +0200
+
+    Delete actors.daph
+
+commit 757e9f393de1ea6b5d582ebcd168d377ff11e574
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 2 10:37:10 2021 +0200
+
+    refatored tree structure
+
+commit 28eb14a39604851d0ac1d66a5fdda3ee9e0ccd85
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 2 10:28:18 2021 +0200
+
+    reset into selfhost branch
+
+commit c3def0ec1561679f2655e6a3f47c353715980da4
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 2 10:28:07 2021 +0200
+
+    Delete util.rb
+
+commit 292e7907d1f1a9e63cfa7fbf5945d43f719ae863
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 2 10:27:59 2021 +0200
+
+    added version file
+
+commit c07c7854e75fc7c47f9124ac79c30a7e2d8b81af
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 2 10:24:19 2021 +0200
+
+    Update daph
+
+commit a58b54ddc1d26ee8451b021f38ead47845b0a68a
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 2 10:19:59 2021 +0200
+
+    Create simpleactors.daph
+
+commit fb3fd721bbf30ca456adcc52d64a676072664360
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 2 10:05:41 2021 +0200
+
+    Update objects.daph
+
+commit 925ca4d859dc1a60354049d05ed73487a9304bbb
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 2 10:04:35 2021 +0200
+
+    fixed indention
+
+commit 45452137398d370d5c984e279d022b8952692502
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 2 10:04:13 2021 +0200
+
+    Delete relative.daph
+
+commit 6a95e11075916cc9d4ab13dc3e3f5568cfe640b0
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 2 10:04:00 2021 +0200
+
+    added relative imports and gem imports
+
+commit 53339e98d79e9f1d64a8c634276ecbc299039491
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 2 09:49:52 2021 +0200
+
+    Update and rename requires.daph to imports.daph
+
+commit 8409b24327d31e470aeccd939ed635f3cf7b237e
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 2 09:49:03 2021 +0200
+
+    Update comments.daph
+
+commit 9469adb7060ef1b381d009d69ea20e67cbd20a9d
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 2 09:47:03 2021 +0200
+
+    Create actors.daph
+
+commit 27aa5cee213f9b5f2aa1a0c3bbebdb7dff717baf
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 2 09:43:23 2021 +0200
+
+    Delete return.daph
+
+commit 81d4da8ecda635cbd18b2abc186dfaec2a769816
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 2 09:41:42 2021 +0200
+
+    Update return.daph
+
+commit 1a93476a5eaab9402ba94a67a0dd269e00b8de33
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 2 09:41:05 2021 +0200
+
+    Update relative.daph
+
+commit f7ce0078d1b9fefff0bebf546e3f9123eda97ce6
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 2 09:40:07 2021 +0200
+
+    added more imperative & generic syntax
+
+commit c8196f5f8d195c111e4390f219ce5d99b1b4ce2f
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Jul 2 09:37:00 2021 +0200
+
+    Update README.md
+
+commit 7dc1f19aaead5f75fb7105213924a704406c36d0
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Tue Jun 8 20:06:19 2021 +0200
+
+    Update README.md
+
+commit 7369e87d8af5d5fe435639d7f8f6cdc396927ef1
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon May 17 07:02:04 2021 +0200
+
+    Update README.md
+
+commit c181284a6b0acb54d3e3b1d79b056144e9a738ac
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sun May 16 16:59:20 2021 +0200
+
+    Adding expr accessor
+
+commit c9ba1ca8c29c1ad5193410c4cf22398598cdc1b9
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat May 15 08:45:50 2021 +0200
+
+    Adding docs
+
+commit e8cf0a5eab999e641428a969b1daf130f3e03717
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat May 15 08:44:33 2021 +0200
+
+    Create daphdoc.daph
+
+commit 605360aaa21eb00b9d41e558ad8735382fe92a59
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu May 13 16:55:55 2021 +0200
+
+    Update README.md
+
+commit f17e279e93b10ce393adc1d8939985efa6af567b
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu May 13 16:49:36 2021 +0200
+
+    Update objects.daph
+
+commit 2015d95931caffae4d24ad4080c247741b93dc35
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu May 13 16:45:46 2021 +0200
+
+    Update comments.daph
+
+commit e9f6bae6ad442a1baaddb221e77fb19fae059568
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu May 13 16:44:12 2021 +0200
+
+    Update requires.daph
+
+commit a226184e57a1b529ec54d8720519c21ad1bfffc6
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Thu May 13 16:43:41 2021 +0200
+
+    Create relative.daph
+
+commit b485eac60a2926091c185871361dbfb0f3587192
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon May 10 14:48:29 2021 +0200
+
+    Create daphne.gemspec
+
+commit dbe2a6c2327c077705957591d51ff7376a24b539
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon May 10 14:18:04 2021 +0200
+
+    Update objects.daph
+
+commit 55d82e1c42aed6bdb67b36151d473c43e32eb657
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon May 10 14:15:44 2021 +0200
+
+    added logical op utils
+
+commit f6190115f3c9424e931b275e87938b5320320b86
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon May 10 14:14:05 2021 +0200
+
+    added version utils for module daphne
+
+commit 05e9eaaccb2907d8f958744f27245b0ee49846a4
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon May 10 14:13:05 2021 +0200
+
+    Delete .gitkeep
+
+commit 0633b4bd163f36128a1437697f8639c0c66f9fbb
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon May 10 14:12:58 2021 +0200
+
+    Create daphne.rb
+
+commit 71fb03529c5752b5877ecdb73de490c3cc41fc64
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri May 7 15:00:40 2021 +0200
+
+    initializing selfhosting compiler driver
+
+commit decc741f68f669f082bab426095d0d9b8e191b21
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri May 7 15:00:06 2021 +0200
+
+    Create Rakefile
+
+commit 09dbe94f93479b33a941eab549d34cb3d13730e5
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri May 7 14:56:41 2021 +0200
+
+    Update requires.daph
+
+commit c2405c789ba0987b3598833c9aed4b9901b6b90e
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri May 7 13:28:44 2021 +0200
+
+    Create parser.rb
+
+commit 668d952456884545f044b2b366725c9aa80f4df8
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri May 7 13:25:44 2021 +0200
+
+    Update README.md
+
+commit bfc8686b9154ef292d804dc2d6d4eb3177d2723d
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri May 7 13:24:07 2021 +0200
+
+    adding ruby subcompiler binary
+
+commit 8a088d88907730e809d780e5a699af815100873a
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri May 7 13:22:28 2021 +0200
+
+    Update Dockerfile
+
+commit 66339699648f6821fbf72ec4a4164152dfc0c7dc
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri May 7 13:22:00 2021 +0200
+
+    Update objects.daph
+
+commit 24380c5cd7be643ebabba013a9930d2b294ba38b
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri May 7 13:21:33 2021 +0200
+
+    Update array.daph
+
+commit 819a22eeeb0f6aa37d542da400bc97ff3991ae3a
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri May 7 13:21:14 2021 +0200
+
+    Update .gitattributes
+
+commit 285852e2ab1064bd2d4a34f30eaa0c1c64632d89
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri May 7 13:20:51 2021 +0200
+
+    kill perl and switch to ruby :(
+
+commit a25fd4cf2bbffc2e21ebe32bc426423d3342cf15
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri May 7 13:20:18 2021 +0200
+
+    kill perl
+
+commit 3d3eb405b04e95a87432f776f8655321089a2206
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri May 7 13:20:02 2021 +0200
+
+    Update README.md
+
+commit 771adeb107c0943781111c0277650934c3eed612
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sun Apr 25 15:27:01 2021 +0200
+
+    Update prelude.daph
+
+commit c136e33c42aaac72f4e385013a3d00eb72cdfa4f
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sun Apr 25 15:14:58 2021 +0200
+
+    Update prelude.daph
+
+commit 5d90123fa2cc733d8dc62d909f5da1bdb8bb21e9
+Merge: 8304bb6 4130cf3
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sun Apr 25 15:12:34 2021 +0200
+
+    Merge pull request #4 from timo-cmd2/add-license-1
+
+    Create LICENSE
+
+commit 4130cf3b90b374dc5585a68b43a8c268712d1b9c (origin/add-license-1)
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sun Apr 25 15:12:03 2021 +0200
+
+    Create LICENSE
+
+commit 8304bb67500f3e69edf4d74890edf545c6fd4ad0
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sun Apr 25 15:11:29 2021 +0200
+
+    Delete LICENSE
+
+commit 03f2167372ff93dee9f4efbc96b886ec13866f47
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sun Apr 25 15:09:24 2021 +0200
+
+    Create collection.daph
+
+commit 9d2ad24de80312abe151e97ed2b2b80741af28f8
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sun Apr 25 10:46:31 2021 +0200
+
+    Adding daphne perl module
+
+commit cceef6c058ddc458b2b5df41f333031cc21c4c0d
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sun Apr 25 10:43:26 2021 +0200
+
+    Adding deps
+
+commit 0eee9c9123597998cc61892e420c3abd9cf32501
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 15:53:21 2021 +0200
+
+    Create requires.daph
+
+commit 203dc020681aa9b12706cd3b8760742245039b11
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 15:52:23 2021 +0200
+
+    Update return.daph
+
+commit 8542f631e68d31d0b92330bff10923f5bb461301
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 15:50:14 2021 +0200
+
+    Update objects.daph
+
+commit 5b59ccdc5715d372115cfe0c19cd23760c3d0799
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 15:49:53 2021 +0200
+
+    Update objects.daph
+
+commit 547050c913858e32a609213580c752b1dddf6140
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 15:46:37 2021 +0200
+
+    Make display function as stdlib function
+
+commit fb2c2da2e7f692c9397cb6a002613659cc075d12
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 15:46:03 2021 +0200
+
+    Update hello.daph
+
+commit aa780ae2bf377d1d5a36fb4bc8a2db0461172fa4
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 15:45:28 2021 +0200
+
+    Update comments.daph
+
+commit e3ca1cbff4e030f737bbc66953c59abf720f5d49
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 15:44:18 2021 +0200
+
+    Rename bin/daph to daphne-bin/daph
+
+commit 615d11302511fdf59f7ec7978a5e8377c0fec49b
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 15:03:03 2021 +0200
+
+    Update Dockerfile
+
+commit d09b12448149c2312ca995cc9409ac0bd1307930
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 10:00:33 2021 +0200
+
+    Update daph
+
+commit b4d5ed02b88dd1fae967c1e0d7c4ebdbd8d55e20
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 10:00:13 2021 +0200
+
+    Update daph
+
+commit 08e465c7259876953790be8602929c3402eb9521
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 09:59:50 2021 +0200
+
+    Delete daphne
+
+commit bf23e3229c79007ec3887bcc58ce295bc6974164
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 09:58:32 2021 +0200
+
+    Rename daphne to bin/daphne
+
+commit 3cc3b3359b0eeacd52f6c0219a0a0046e91e1ef8
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 09:58:20 2021 +0200
+
+    Create daphne
+
+commit 52838425f1ce55fddf348db4a3ec4ba20de55790
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 09:49:48 2021 +0200
+
+    Kill java
+
+commit ac3e1bb5f0d59884cdcc6d1933f90accffa00601
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 09:49:26 2021 +0200
+
+    Kill java sources
+
+commit f25aabde40877e5b71ba10c586c3d7b4353e0091
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 09:49:02 2021 +0200
+
+    Kill old pseudocode
+
+commit a1bb097d2ef7ca12b192b6cf98a53246d57ad05e
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 09:48:29 2021 +0200
+
+    Update .gitattributes
+
+commit 5584f95e3edd7ff94c209a94cc098967b5f0fd6f
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 09:48:03 2021 +0200
+
+    Kill java
+
+commit 76f2f051b23d5b30dfcd0366bdcef9e4728b6e90
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 24 09:39:47 2021 +0200
+
+    Update README.md
+
+commit 0d8f2cb402fd5807be90da07584a68d517d3de66
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 17:43:13 2021 +0200
+
+    Update README.md
+
+commit d3c5177d473f16acfa138d955181a99381e21493
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 17:42:09 2021 +0200
+
+    Fixed typo
+
+commit bff33459cbeb6ccc66adf615a05a7180a1ab25f8
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 17:23:43 2021 +0200
+
+    Update README.md
+
+commit 3b6f59576f7775ed198f6b6150767b22999c77bc
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 17:23:09 2021 +0200
+
+    Update README.md
+
+commit b6cadd64ee3809433b7fd1b8b2355b1d97a78d53
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 17:19:20 2021 +0200
+
+    Fixed typo
+
+commit c09f593630e8c70878a3dadd70eb6b2565d54f85
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 17:18:35 2021 +0200
+
+    Fixed bug
+
+commit 07b4182e5adf50d4af8f4cf41c70b5e06f8743d7
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 17:17:46 2021 +0200
+
+    Update README.md
+
+commit 1bf430a84dbdb0344b5f65c281b58e40f62bff6a
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 16:40:31 2021 +0200
+
+    Update README.md
+
+commit 69a0fade8c0d171d1f9e84c91dbccc5a3d6c16be
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 16:40:00 2021 +0200
+
+    Update README.md
+
+commit 823834a01d7bf6082d526a207e6844de5473b7cc
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 16:33:38 2021 +0200
+
+    Added docker deps
+
+commit 0eff17f236bf81589493eb6178b1acad5fc7e489
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 16:31:58 2021 +0200
+
+    Update README.md
+
+commit 20d9ecebae680907909e4e41e16162a031a09d62
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 16:27:11 2021 +0200
+
+    Create return.daph
+
+commit 8dff593a60771684211c8ffba3005f6a1636439d
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 16:19:06 2021 +0200
+
+    Update README.md
+
+commit 683d103fe2039e0573787489568008f74bf3a2df
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 16:18:40 2021 +0200
+
+    Update README.md
+
+commit be28c385cf04d6f314376531552d8666e6228ad1
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 16:07:36 2021 +0200
+
+    Rename daphne-core/test/dapne/lang/.gitkeep to daphne-core/test/daphne/.gitkeep
+
+commit b12373331a6584604a5af75168176e6451b2ca69
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 16:07:18 2021 +0200
+
+    Delete package-info.java
+
+commit 7ef8a415a6ef5185176ba757128fff1912cd5c1d
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 16:07:01 2021 +0200
+
+    Create util.java
+
+commit d48b18d0fa4a230c69d5be547bc469405f62a092
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 16:03:41 2021 +0200
+
+    Adding gradle configs
+
+commit b680d8244a8412d2b71ebb8273e516c94d731896
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 16:00:24 2021 +0200
+
+    Adding array
+
+commit a20a04d2264dbb4ef9dbf4d1e1e978e406f5f0d3
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 15:58:02 2021 +0200
+
+    Delete array.daph
+
+commit 2677a476914947fb8465d7bb3cd0a5a906022563
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 15:54:50 2021 +0200
+
+    Update README.md
+
+commit 108a11dbfd014d52facbd641d5c40ad8655dbc24
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 15:50:24 2021 +0200
+
+    Update README.md
+
+commit 3ff954afe79ed66ddfd021918b1630840152b6b6
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 15:49:22 2021 +0200
+
+    Create objects.daph
+
+commit 55196a78c84562cc3645e336f6dc120d2947006a
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 15:38:15 2021 +0200
+
+    Create comments.daph
+
+commit 02f84e91e2ac1607b379edd7eef7e611f5642021
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 15:34:38 2021 +0200
+
+    Create .gitattributes
+
+commit 9cc4150f3634215686d696e44e01a5ee184a1619
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 15:33:43 2021 +0200
+
+    Finallll smalltalk syntax commit
+
+commit c16c78ac6abcc951d6c529e68bd0ec7c8eee6e24
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 12:12:21 2021 +0200
+
+    Update hello.daph
+
+commit fa8bc4fe27fc8fd2323d0471d12c2ce5d81b33a7
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 12:11:40 2021 +0200
+
+    Update hello.daph
+
+commit b389a2a4f356e01ca25faaf3e57debe4c79ebd72
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 11:41:33 2021 +0200
+
+    Update and rename daphne-core/main/java/com/timo-cmd2/daphne/lang/bootstrap.java to daphne-core/daphne/lang/package-info.java
+
+commit 37b7808ac6d48ae5cb6198a3f3638e06fe3601cb
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 11:39:47 2021 +0200
+
+    Delete boot.daph
+
+commit 85295215c4bd440acd7f010b3b3afb36c2f6fe05
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 11:38:25 2021 +0200
+
+    Delete .gitattributes
+
+commit 2e83102baf8efd7e55c485d0fc31b56d268cd4a4
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 11:37:19 2021 +0200
+
+    Final beautyful syntax commit xD
+
+commit 1362583ad8b699884fce80db43835da73947e8b0
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 11:30:47 2021 +0200
+
+    Kill shitty pseudo code
+
+commit 3a621aaaac590e2f169a5fcfb0cbc3bb009f0cc0
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Apr 17 09:08:07 2021 +0200
+
+    Create prelude.daph
+
+commit d0248f99214e0f8053e3392c18accfcae7abc00f
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Apr 16 15:54:51 2021 +0200
+
+    Create comments.daph
+
+commit 46d45811500dbba2bb98596f7637b498c1184e2e
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Apr 16 15:52:39 2021 +0200
+
+    Create .gitattributes
+
+commit 718bb4ea4de44ac223229e7aa54a5c36d55f528e
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Apr 16 15:46:57 2021 +0200
+
+    Final syntax commit
+
+commit 66c33eb62c90babf1c1905c9fcf37c203b1df6a0
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Apr 16 15:45:56 2021 +0200
+
+    Delete comments.daph
+
+commit 7cd7012f41f90e2957378ab38e4cb8f2f2739520
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 11:57:43 2021 +0200
+
+    Create foo.daph
+
+commit b0de737b32b905d3672511c8bd6a672514d2808f
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 11:54:03 2021 +0200
+
+    initializing maven compiler
+
+commit 26d67db4dcf8cbbfb93043f7cde10449ee1df5a0
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 11:51:01 2021 +0200
+
+    Create .gitkeep
+
+commit 2f03d9b4e5e0bcfdc76501a81426638c990a2fa8
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 11:50:16 2021 +0200
+
+    Update bootstrap.java
+
+commit 63fbd5ce80f7bfb6584b19a845d9c0392abdb641
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 11:38:34 2021 +0200
+
+    Create comments.daph
+
+commit dc48eff797691837233590f38edc112fee901937
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 11:35:55 2021 +0200
+
+    Fixed new objecting
+
+commit d9c467f3b48d61ec0b67f68669c2e840b29af24d
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 11:28:23 2021 +0200
+
+    Rename samples/hello.daph to daphne-samples/hello.daph
+
+commit c61448c56e873075dda102b0994b56e03e3f6ca5
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 11:18:10 2021 +0200
+
+    Create boot.daph
+
+commit c812b4a4c6ffe40b6e193b5d2b244c413f811dae
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 11:16:12 2021 +0200
+
+    Rename core/dake/dake.daph to daphne-dake/dake.daph
+
+commit 2f201e03988d4d6d3544eeee33f096f26ec31468
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 11:15:29 2021 +0200
+
+    Rename stdlib/array/array.daph to daphne-stdlib/array/array.daph
+
+commit 2bf40eac58748b0a6ffab9c2297303a47f6141ba
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 11:14:15 2021 +0200
+
+    Update and rename spec/daphne-spec.daph to daphne-spec/daphne-spec.daph
+
+commit 3d90fb4ed918feba91ffa9a33bb216f7cc971513
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 11:13:57 2021 +0200
+
+    Delete .gitkeep
+
+commit e99a847f4b05d1089d0f7133ca54ef5e73e9fa17
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 11:13:49 2021 +0200
+
+    Rename sources/main/java/com/timo-cmd2/daphne/lang/bootstrap.java to daphne-core/main/java/com/timo-cmd2/daphne/lang/bootstrap.java
+
+commit 0160641331c906ad00470350443cbe77c9000db1
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 11:13:00 2021 +0200
+
+    Delete .gitsplit
+
+commit 2433a4fcab7268abc6192c229e624a83e307b211
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 11:12:50 2021 +0200
+
+    Delete .gitkeep
+
+commit 53652b69ae19e26395a6199ca2f99573f1e1a34f
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 09:19:04 2021 +0200
+
+    Delete modularity.daph
+
+commit f6873851cb01cdbdea308ce0c472c1748847cc9c
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 09:13:07 2021 +0200
+
+    Update hello.daph
+
+commit d2721fbd7484aa94309607a52141f7eace205b34
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 09:12:42 2021 +0200
+
+    Update hello.daph
+
+commit 3def3857f0a944e8d285c885c7b52a5457ce35ce
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 09:05:10 2021 +0200
+
+    Create .gitsplit
+
+commit 412e6c9dfb94149f6318080d42e04b641d576c5a
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 09:03:46 2021 +0200
+
+    Create bootstrap.java
+
+commit 16055f81932f70440b70f6146615cd8357a631b4
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 08:25:23 2021 +0200
+
+    Delete daphne.tt
+
+commit 064326090a820d4e09c82f4f9ac280025083797e
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 08:23:59 2021 +0200
+
+    Delete Gemfile
+
+commit 7400a24b3c924715136bda3185a99eefb95fae22
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 08:23:33 2021 +0200
+
+    Update daph
+
+commit 4d36887b0133fbeb6f361a7dfd7b6455c37e1842
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 08:22:59 2021 +0200
+
+    Delete comment.rb
+
+commit f52aca2869ab4aa400718f2e49941b1d28e036af
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 08:22:49 2021 +0200
+
+    Delete nds.rb
+
+commit 997e9efb3c0b90180b4d256bb92ece1e9fa6876f
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 08:22:26 2021 +0200
+
+    Update and rename string.rb to .gitkeep
+
+commit fc62627460c992327d1db1f3e8ff44dcd6936a29
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 08:22:02 2021 +0200
+
+    Delete error.rb
+
+commit 586304282cc3b0739bae47eebd3c3defa33ae546
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 08:21:54 2021 +0200
+
+    Delete array.rb
+
+commit 34529929092e2e923940a9cd6efadb0703fedd3f
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 08:21:48 2021 +0200
+
+    Delete sys.rb
+
+commit fede7e5ab83a9858d9244643abc301058360a745
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 08:21:40 2021 +0200
+
+    Delete evaluator.rb
+
+commit e964118232a37e949edb3ee381ee5b53972ec794
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Mon Apr 12 08:21:12 2021 +0200
+
+    Refactor in jvm
+
+commit a519bba5acdf602edbe4798aa815de396138b32e
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 31 16:59:20 2021 +0200
+
+    adding nodes collection
+
+commit fefd20165782cae133c590641048516f18477b69
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 31 16:58:45 2021 +0200
+
+    init of treetop config file
+
+commit 0fc6063a84824aef549798a4d94fea264662dd65
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 31 16:58:14 2021 +0200
+
+    added comment for parsing now
+
+commit 9604ccd8ff12fd53612fcf7967fe620b55b9f3d0
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 31 16:55:55 2021 +0200
+
+    Create daphne-spec.daph
+
+commit 1b88d917914e3dd4a3ac46b969c3afd3e81939dc
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 31 16:52:10 2021 +0200
+
+    initialized daphne dist script
+
+commit 9bdec1fb6e12c95fda95de463f5c2faab8a2c1ba
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 31 16:49:51 2021 +0200
+
+    added bootup evaluator for Daphne
+
+commit cae54b9d4e5208d37b71dbc2001b856b26633254
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 31 16:48:23 2021 +0200
+
+    added gemfile
+
+commit 5043a88f517a43f940fa59fb8d2d11872d4d7c1d
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 31 16:45:29 2021 +0200
+
+    added sys collection
+
+commit fe98e2ff358e1dd0beb4ec5827805f03610a27bc
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 31 16:44:46 2021 +0200
+
+    added string implementation
+
+commit bb2b352e87888f9fd492be4224e05f0502934bea
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 31 16:44:17 2021 +0200
+
+    added error part of handling
+
+commit dffd7e4ad1c35e345b85dbf5d518ede65f8df5a0
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 31 16:38:40 2021 +0200
+
+    adding main ressources for parsing nodes
+
+commit aaac4eda58da6d47631d75af9736dc8568ca8988
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 31 14:08:51 2021 +0200
+
+    Update README.md
+
+commit 30e85262040968c489ce1cb3112748718b11c333
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 31 13:57:53 2021 +0200
+
+    Added daph version
+
+commit 9a12b99870bd76d58fd180e35cda7bdcdd051919
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 31 13:41:21 2021 +0200
+
+    Initialize array lib
+
+commit 78ac6ad240a3a97f7e26a89d503c11ccdc0ed71f
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 31 13:40:11 2021 +0200
+
+    Refactor dakefile in daphne itselfe
+
+commit 7497c6c488b8bad71b3c0b6ebbff8411b5f0c28f
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 31 13:39:35 2021 +0200
+
+    Delete java and refactor in ruby
+
+commit 03f307a896fe528fa062b6e66c4bb51583144576
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 24 12:54:11 2021 +0100
+
+    Create modularity.daph
+
+commit 4ea234a0d2944a1cb2b5a56363bda1b68ba0df53
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 24 11:52:00 2021 +0100
+
+    Update hello.daph
+
+commit 4b2298db0822257ef8111f8abb28cd05ffd60742
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 24 11:50:10 2021 +0100
+
+    initialized activation trigger
+
+commit 1de96a330e8967f6593ee619ba7e5ceb83178029
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 24 11:41:13 2021 +0100
+
+    Update README.md
+
+commit bd8ed5065766b88f90c7f28c63a3e67f8de18668
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 24 11:37:56 2021 +0100
+
+    Update Dakefile
+
+commit e56ecd7143c024a917f5a6b1ae662c1649a87848
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 24 11:37:38 2021 +0100
+
+    Rename dake.php to dake.java
+
+commit e18f748a26b6cac7a907f16dce6dc9459d2890e9
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 24 11:37:20 2021 +0100
+
+    Delete Daphne.php
+
+commit 83bb2388dfeb9fb91a4d01e16d43bda3df4919e0
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 24 11:37:13 2021 +0100
+
+    Delete _index.php
+
+commit 0821333226bd2c409ff6151093cb140ec543a597
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Wed Mar 24 11:34:25 2021 +0100
+
+    Delete daphne_reserved.php
+
+commit be1bcb890c371f63c4cf5b250855278c2ca2abcc
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Mar 6 19:46:26 2021 +0100
+
+    Update Dakefile
+
+commit 58bc7a37fca8a7da53890bb87c2852f49f4ec199
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Mar 6 19:43:59 2021 +0100
+
+    Create .gitkeep
+
+commit 23b6d642f939608e31b99cb264389c651e181730
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Mar 6 19:43:32 2021 +0100
+
+    Initial commit
+
+commit 519444f66568e0868eddf825e77013bac8e091ef
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Mar 6 19:41:44 2021 +0100
+
+    Fixed out files
+
+commit 7b943d7e980c5de1c6361136d3fbd7b776e3fc53
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Sat Mar 6 19:37:43 2021 +0100
+
+    Added hello world sample
+
+commit c15ca053fb70de14f64495d8fec441b576c77376
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 18:15:13 2021 +0100
+
+    Added banner license
+
+commit 21b4b428fdd4a838dc6b2e5cc8af27c6be6f72bc
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 18:14:00 2021 +0100
+
+    Update Daphne.php
+
+commit af00ad4dfa2c9cd38f9d7f8c4744cbde9810ae5d
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 18:12:07 2021 +0100
+
+    Update Daphne.php
+
+commit e89fa727bea6369dd82cbb691b5a348422fd7a49
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 18:11:27 2021 +0100
+
+    Update Daphne.php
+
+commit c794530e6e0fe27cb7e252bb1b36e0695473e687
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 18:09:05 2021 +0100
+
+    Added banner
+
+commit 9c324904d0c9c5dac25350b5a0f9690a0c1ab442
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 18:07:13 2021 +0100
+
+    Create hello.daph
+
+commit 4b8d058a9ced700181fa91ae68614283834089b0
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 18:03:09 2021 +0100
+
+    Create .gitkeep
+
+commit f14102d3a8be4e2dc3c3f28d5092559d1faab17a
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 17:54:41 2021 +0100
+
+    Delete dependabot.yml
+
+commit a1e5599c2b145f26df60dace166a64e9b6a13c0a
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 17:52:10 2021 +0100
+
+    Create dependabot.yml
+
+commit 92ee844afe7dfc1f8674015e323eb9ee95aa1d1b
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 17:50:17 2021 +0100
+
+    Delete .env
+
+commit 39fe67f491bfb3abafc0df8518881ba9f37e7514
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 17:50:09 2021 +0100
+
+    Delete .env-docker
+
+commit 922a641b5fb4a7bb12417bdd294071bdd2814432
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 17:49:52 2021 +0100
+
+    Create .env-docker
+
+commit 325abefd745d94f696826d6a27680d1f02a3f6f4
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 17:48:24 2021 +0100
+
+    Added env vars
+
+commit 930e0e80ca567a4220d14e6427feb55ac1be340d
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 17:47:24 2021 +0100
+
+    Create .dockerignore
+
+commit 6f551b50ff89903c07b0061f7f0a7a0060ccb86d
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 17:45:34 2021 +0100
+
+    Update README.md
+
+commit 12e6b06e451a51d08aa8a9c5f581b82a70d54be8
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 17:44:45 2021 +0100
+
+    Update README.md
+
+commit ebfbf36b6274f838a8ae663d65070331936224bc
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 17:27:03 2021 +0100
+
+    Initial docker commit
+
+commit 5afb15cdd1bbea9f8c87c0dac0d06449ccb28992
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 17:25:08 2021 +0100
+
+    Initial commit to the buildsystem
+
+commit d1d06c18d8d92ab2d9515ece7cd5428509edb579
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 17:23:38 2021 +0100
+
+    Added dake buildsystem
+
+commit 4c61f3a6532b0bc9db8fd950520499dbd1201641
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 16:06:34 2021 +0100
+
+    Initial commit to modules
+
+commit b63b7bbd49c2594f239a40173b6ab4f2e123d29b
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 16:02:48 2021 +0100
+
+    Initial commit
+
+commit c3383c20984b288dc7e2221eac6df6338a466d10
+Author: Timo Sarkar <71646577+timo-cmd2@users.noreply.github.com>
+Date:   Fri Mar 5 15:57:36 2021 +0100
+
+    Initial commit
