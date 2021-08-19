@@ -1,2 +1,2 @@
-*.e linguist-language=Zig
-# map it as zig and not as E
+*.e linguist-language=Groovy
+# map it as Groovy and not as E
