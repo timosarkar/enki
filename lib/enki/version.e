@@ -4,8 +4,8 @@ class Version {
   parameter license
 
   def initialize: |self, @version, @author, @license| {
-    @version = "0.1.2"
+    @version = "0.1.4"
     @author = "Timo Sarkar"
-    @license << DAPHLICENSE
+    @license << ENKILICENSE
   }
 }
