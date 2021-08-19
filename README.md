@@ -8,25 +8,25 @@ An innovative programming-language with a functional touch **wip**
 
 ## Introduction 
 
-The enki programming-language is a functional, quasi-dynamic programming language based heavily on other languages such as **Io, Zig, C and Ruby**. Enki serves an intuitive syntax, as absolute control of functionality. It features an open type-system, the ability to compile to bytecode and many many more...
+The enki programming-language is a functional, quasi-dynamic programming language based heavily on other languages such as **Io, Groovy, C and Ruby**. Enki serves an intuitive syntax, as absolute control of functionality. It features an open type-system, the ability to compile to bytecode and many many more...
  
-While Daphne is still under heavy construction, the core of daphne features some neat ideas:
+While Enki is still under heavy construction, the core of Enki features some neat ideas:
 
-- inspiration from languages like Zig, C, Io and Ruby
+- inspiration from languages like Groovy, C, Io and Ruby
 - full object-oriented core-model
 - beautiful smalltalk/self inspired frontend
-- full C/Zig compabillity with a low overhead
+- full Java/Groovy compabillity with a low overhead
 - modules done via namespaces and pure classes
 - bootstrapping compiler, written 100% in Enki
-- access to any existing zig method
+- access to any existing Groovy method
 
 > Note: All those features were pretty likely to implement, while the core runtime is still under development. Some features listed above, are still missing.
 
 ## Find daphne on the internet
 
-- **changelog**: <a href="https://github.com/timo-cmd2/daphne/master/changelog">changelog</a>
+- **changelog**: <a href="https://github.com/timo-cmd2/enki/master/changelog">changelog</a>
 - **gitter chat**: https://gitter.im/daphne-lang/community
-- **irc channel**: #daphne @freenode
+- **irc channel**: #enki-lang @freenode
 - **Blog**: https://timosarkar.surge.sh/tags/daphne/
 
 ## Sponsors and supporters
