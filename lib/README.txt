@@ -1,3 +1,3 @@
-# Daphne/lib/
+# /lib/
 
-This dir contains the self-host compiler for daphne
+This dir contains the bootstrapped compiler for Enki
