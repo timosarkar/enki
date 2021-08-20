@@ -2,7 +2,7 @@ import java.utils.*;
 import enki.lang.scan.*;
 import mysuperfile;
 
-public final class {
+class helloclass {
   public member name;
 
   public def init(@name) {
