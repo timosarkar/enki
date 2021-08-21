@@ -2,14 +2,15 @@ import java.utils.*;
 import enki.lang.scan.*;
 import mysuperfile;
 
+// methods are public by default
 class helloclass {
-  public member name;
+  member name;
 
-  public def init(@name) {
+  def init(@name) {
     return @name = "Timo";
   }
 
-  public final def main(string: args[]) {
+  def main(string: args[]) {
     System.outstring("Hello, #{@name}!");
   }
 }
