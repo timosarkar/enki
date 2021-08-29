@@ -20,3 +20,9 @@ class superclass {
     return 0;
   }
 }
+
+class design {
+  pub def design(name) {
+    return "#{name}";
+  }
+}
