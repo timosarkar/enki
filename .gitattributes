@@ -1,2 +1,2 @@
-*.e linguist-language=Xtext
+*.e linguist-language=Xtend
 # map it as Xtext (for language-behavior) and not as E
