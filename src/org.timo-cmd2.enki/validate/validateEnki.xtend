@@ -1,0 +1,3 @@
+class validate {
+  class enki {}
+}
