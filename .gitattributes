@@ -1,2 +1,2 @@
-*.e linguist-language=Groovy
-# map it as Groovy and not as E
+*.e linguist-language=Xtext
+# map it as Xtext (for language-behavior) and not as E
