@@ -22,6 +22,17 @@ While Enki is still under heavy construction, the core of Enki features some nea
 
 > Note: All those features were pretty likely to implement, while the core runtime is still under development. Some features listed above, are still missing.
 
+```xtend
+// Hello from Enki
+cls HelloWorld 
+{
+  static def main()
+  {
+    println("Hello, World!")
+  }
+}
+```
+
 ## Find daphne on the internet
 
 - **changelog**: <a href="https://github.com/timo-cmd2/enki/master/changelog">changelog</a>
