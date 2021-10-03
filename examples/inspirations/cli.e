@@ -14,3 +14,8 @@ cls cli extends enki.argparse
     }
   }
 }
+
+object cli 
+{
+  new cli = Cli.main()
+}
