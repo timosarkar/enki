@@ -2,6 +2,8 @@
 
 # The enki programming-language
 
+### currently dormant
+
 [![Join the chat at https://gitter.im/daphne-lang/community](https://badges.gitter.im/daphne-lang/community.svg)](https://gitter.im/daphne-lang/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 An innovative programming-language with a functional touch **wip**
